@@ -45,17 +45,13 @@ Welcome to the dawn of a new era in sports management – introducing the Smart 
 The mechanical process behind our Smart Cricket Stadium is a synergy of cutting-edge technology and meticulous engineering. At its heart lies the Arduino Uno, orchestrating a symphony of components. The Humidity Detection Sensor and Rain Sensor collaborate seamlessly to detect rain, triggering the deployment of the innovative pitch covering system, powered by the precision of Stepper Motors. The LDR Sensor and Solar Panel form a dynamic duo, tracking the sun's arc and harnessing its energy to power the stadium, while the Servo Motor ensures optimal solar panel alignment. The boundary line fix system, backed by IR and DC Motors, guarantees accuracy, as the Li-ion Battery and meticulously calibrated Resistor networks ensure uninterrupted performance. This intricate ballet of components, connected by Jumper Wires, forms the backbone of our pioneering stadium, where technology meets tradition to redefine sports management.
 
 
- <img src="https://github.com/musfiqurR661/Blue_Circuit/blob/main/Image/BounderyLineAdjust_M.jpg" width="45%" height="45%">
- <img src="https://github.com/musfiqurR661/Blue_Circuit/blob/main/Image/BounderyLine.jpg">
- <img src="https://github.com/musfiqurR661/Blue_Circuit/blob/main/Image/PlayerCount.jpg">
- <img src="https://github.com/musfiqurR661/Blue_Circuit/blob/main/Image/macanism.jpg" width="45%" height="45%">
- <img src="https://github.com/musfiqurR661/Blue_Circuit/blob/main/Image/LineFollowe.jpg" width="45%" height="45%">
+ <img src="https://github.com/musfiqurR661/Blue_Circuit/blob/main/Image/BounderyLineAdjust_M.jpg" width="45%" height="45%"> <img src="https://github.com/musfiqurR661/Blue_Circuit/blob/main/Image/BounderyLine.jpg"> <img src="https://github.com/musfiqurR661/Blue_Circuit/blob/main/Image/PlayerCount.jpg"> <img src="https://github.com/musfiqurR661/Blue_Circuit/blob/main/Image/macanism.jpg" width="45%" height="45%"> <img src="https://github.com/musfiqurR661/Blue_Circuit/blob/main/Image/LineFollowe.jpg" width="45%" height="45%">
  
- >
+
 
 
 
  
 
-### In this repository you will find pictures, code, CAD files and renderings. If you have any questions, please let me know.
+### The Smart Cricket Stadium project stands as a testament to the transformative power of innovation in the realm of sports. Through the ingenious integration of components like Arduino Uno, humidity and rain sensors, stepper motors, LDR sensors, servo motors, IR sensors, DC motors, and more, we've crafted a technological marvel that enhances every aspect of the cricket experience. From automatic pitch covering and solar energy optimization to precise boundary management and data-driven decision-making, this project seamlessly merges cutting-edge advancements with the essence of the game. The result is not just a stadium, but a visionary platform that elevates tradition into a new era of efficiency, fairness, and sustainable brilliance in the world of sports.
 
